@@ -1,1 +1,28 @@
+body
+{
+  font-family: Arial, sans-serif;
+}
 
+.v88-no-break
+{
+}
+
+.v88-title-strip {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.v88-title-text {
+    flex-grow: 1;
+}
+
+.v88-title-images {
+    display: flex;
+    align-items: flex-start;
+}
+
+.v88-title-images img {
+    max-height: 100px;
+    width: auto; images */
+}
